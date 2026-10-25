@@ -1,6 +1,6 @@
 ---
-author: nlharris
-date: "2025-10-22T19:05:24+00:00"
+author: deepakunni3
+date: "2026-10-25T07:00:00+00:00"
 title: Sponsors
 url: /events/bosc/sponsors/
 bosc: yes
